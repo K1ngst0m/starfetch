@@ -1,5 +1,8 @@
 # starfetch
-[starfetch](https://github.com/Haruno19/starfetch) but just one single executable and self-contained file without depend on res/ directory when running.
+> [starfetch](https://github.com/Haruno19/starfetch) but just one single executable and self-contained file without depend on res/ directory when running.
+
+A command line tool written in C++ that displays constellations.
+
 
 ## Table of contents
 * [Description](https://github.com/Haruno19/starfetch#description)
